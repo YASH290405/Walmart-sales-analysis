@@ -1,5 +1,5 @@
 # Walmart Sales Data Analysis
-<img src="https://1000logos.net/wp-content/uploads/2017/05/Emblem-Walmart.jpg" height="400">
+<img src="https://share.google/NlUuMwhgk1jT1Z5C6" height="400">
 
 ## About
 
