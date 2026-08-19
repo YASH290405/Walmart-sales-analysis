@@ -1,5 +1,5 @@
 # Walmart Sales Data Analysis
-<img src="https://share.google/NlUuMwhgk1jT1Z5C6" height="400">
+<img src=""C:\Users\yashd\OneDrive\Pictures\Screenshots\Screenshot 2026-08-19 160655.png"" height="400">
 
 ## About
 
